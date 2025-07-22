@@ -54,3 +54,6 @@ Where:</p>
 - Interest: 1% to 99%
 - Tenure: Up to 360 months
 - Inputs are trimmed automatically beyond max length
+
+<h2>Try It Here</h2>
+<a href="https://emi-calcs.netlify.app/">EMI-Calculator</a>
